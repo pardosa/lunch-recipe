@@ -14,7 +14,7 @@ Clone this repository and run composer update
 ```
 git clone https://github.com/pardosa/pasaribu-harry-techtask-201911.git
 cd pasaribu-harry-techtask-201911
-composer update
+composer install
 symfony server:start -d
 ```
 
