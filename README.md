@@ -12,8 +12,8 @@ You need at least PHP5.6 with composer and sympfony-cli installed in your comput
 Clone this repository and run composer update
 
 ```
-git clone https://github.com/pardosa/pasaribu-harry-techtask-201911.git
-cd pasaribu-harry-techtask-201911
+git clone https://github.com/pardosa/lunch-recipe.git
+cd lunch-recipe
 composer install
 symfony server:start -d
 ```
